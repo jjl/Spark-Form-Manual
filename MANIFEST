@@ -1,0 +1,6 @@
+Build.PL
+Changes
+MANIFEST
+README
+lib/Spark/Form/Manual.pm
+t/00-load.t
